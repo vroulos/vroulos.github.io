@@ -46,6 +46,10 @@ blockquote, q {
 		content: none;
 	}
 
+#abilities{
+	margin-top: 300px;
+}	
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -54,6 +58,10 @@ table {
 body {
 	-webkit-text-size-adjust: none;
 }
+	#imageme{
+		height: 300px;
+		width: auto;
+	}
 
 mark {
 	background-color: transparent;
@@ -2587,6 +2595,12 @@ input, select, textarea {
 		}
 
 /* Image */
+
+	#imageci{
+		margin-bottom: 70px;
+		margin-top: 70px;
+	}
+
 
 	.image {
 		border: 0;

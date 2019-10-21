@@ -34,3 +34,7 @@
 			transform: none;
 			opacity: 1;
 		}
+
+	#imageme{
+		height: 200px;
+	}
